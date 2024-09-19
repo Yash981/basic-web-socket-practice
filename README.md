@@ -1,1 +1,1 @@
-# basic-web-socket-practice
+# web-socket-practice
